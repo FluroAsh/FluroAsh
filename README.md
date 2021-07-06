@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FluroAsh
-- 👀 I’m interested in Python, SQL, VBA, R, C++ & Javascript
+- 👀 I’m interested in Python, HTML5, CSS3, Javascript, React, jQuery, SQL, PHP & ASP.NET
 - 🌱 I’m currently learning Python, SQL, VBA, R, C++ & Javascript
 - 💞️ I’m looking to collaborate on data analysis projects in the future ... ⏰
 - 📫 How to reach me: 
