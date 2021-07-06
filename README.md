@@ -5,6 +5,7 @@
 - 📫 How to reach me: 
   - Discord: Fluro#0958
   - Twitter: @ashleygthompson
+  - Email: workashleythompson@gmail.com
   
 <!---
 FluroAsh/FluroAsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
