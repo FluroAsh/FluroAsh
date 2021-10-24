@@ -6,5 +6,3 @@
   - Discord: Fluro#0958
   - Twitter: @ashleygthompson
   - Email:   workashleythompson@gmail.com
-
-Testing!
