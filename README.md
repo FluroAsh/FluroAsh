@@ -1,10 +1,10 @@
-<h1 style="text-align:center;"> 👋 Hi, I’m @FluroAsh </h1>
-<h3 style="text-align:center;"> 💞️ I’m looking to collaborate on web app projects in the future ... ⏰<h3>
+<h1 align="center"> 👋 Hi, I’m @FluroAsh </h1>
+<h3 align="center"> 💞️ I’m looking to collaborate on web app projects in the future ... ⏰<h3>
 
 </br>
 
 <div align="center" style="border-radius:100%;">
-  <img src="https://pbs.twimg.com/profile_images/1433750197092302850/qo-AVnxc_400x400.jpg" style="height:150px;width:150px;">
+  <kbd><img src="https://pbs.twimg.com/profile_images/1433750197092302850/qo-AVnxc_400x400.jpg" style="height:150px;width:150px;"></kbd>
 </div>
 
 ## 📫 How to reach me: 
