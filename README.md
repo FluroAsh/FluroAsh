@@ -28,12 +28,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FluroAsh&repo=pokemon-marketplace&theme=dark" />
 </a>
 
-<br>
 
 <a href="https://github.com/FluroAsh/Portfolio-Site">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FluroAsh&repo=Portfolio-Site&theme=dark" />
 </a>
 
-<br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=FluroAsh&theme=dark">
