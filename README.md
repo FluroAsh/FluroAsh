@@ -3,8 +3,8 @@
 
 </br>
 
-<div style="display:flex;justify-content:center;">
-  <img align="center" src="https://pbs.twimg.com/profile_images/1433750197092302850/qo-AVnxc_400x400.jpg" style="border-radius:100%;height:150px;width:150px;">
+<div align="center" style="border-radius:100%;">
+  <img src="https://pbs.twimg.com/profile_images/1433750197092302850/qo-AVnxc_400x400.jpg" style="height:150px;width:150px;">
 </div>
 
 ## 📫 How to reach me: 
@@ -28,10 +28,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FluroAsh&repo=pokemon-marketplace&theme=dark" />
 </a>
 
+<br>
+
 <a href="https://github.com/FluroAsh/Portfolio-Site">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FluroAsh&repo=Portfolio-Site&theme=dark" />
 </a>
 
-</br>
+<br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=FluroAsh&theme=dark">
