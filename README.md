@@ -30,7 +30,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FluroAsh&repo=Portfolio-Site&theme=dark" />
 </a>
 
-
-
+----
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=FluroAsh&theme=dark">
