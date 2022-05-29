@@ -16,18 +16,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,js,react,html,css,styledcomponents,sass,ruby,rails,docker,aws,heroku)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FluroAsh&layout=compact&theme=dark)](https://github.com/FluroAsh/github-readme-stats)
-
-## 🔎 Highlighted Projects
-
-<a href="https://github.com/FluroAsh/pokemon-marketplace">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FluroAsh&repo=pokemon-marketplace&theme=dark" />
-</a>
-
-<a href="https://github.com/FluroAsh/Portfolio-Site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FluroAsh&repo=Portfolio-Site&theme=dark" />
-</a>
-
----
+## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FluroAsh&layout=compact&theme=dark)](https://github.com/FluroAsh/github-readme-stats)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=FluroAsh&theme=dark">
