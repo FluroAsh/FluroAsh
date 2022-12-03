@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hi, I’m Ash </h1>
-<h3 align="center"> 💞️ I’m a developer that is intent on making positive change in the tech-world, to enhance the lives of others and create useful solutions. Let's get in touch! 👨‍💼<h3>
+<h3 align="center"> 💞️ I’m a developer that is intent on making positive change in the tech-world, and create genuinely useful solutions 👨‍💼<h3>
 
 <div align="center" style="border-radius:100%;">
   <kbd><img src="https://pbs.twimg.com/profile_images/1433750197092302850/qo-AVnxc_400x400.jpg" style="height:150px;width:150px;"></kbd>
