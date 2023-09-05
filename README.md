@@ -14,6 +14,4 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=git,js,react,html,css,styledcomponents,sass,ruby,rails,docker,aws,heroku)](https://skillicons.dev)
-
-## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FluroAsh&layout=compact&theme=dark)](https://github.com/FluroAsh/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=git,js,react,html,css,nodejs,tailwind,styledcomponents,sass,ruby,rails,docker,aws,heroku)](https://skillicons.dev)
