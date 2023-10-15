@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hi, I’m Ash </h1>
-<h3 align="center"> 💞️ I’m a Full-Stack Developer looking to toss my hat into the World Wide Web 🌏  <h3>
+<h3 align="center"> 💞️ I’m a Full-Stack Developer looking to toss my hat into the World Wide Web 🌏  </h3>
 <h4 align="center"> Don't be shy, and say hello! </h4>
 
 <div align="center" style="border-radius:100%;">
