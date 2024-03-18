@@ -9,8 +9,8 @@
 ## 📫 How to reach me:
 
 - Discord: Fluro#0958
-- Twitter: [@ashleygthompson](www.twitter.com/@ashleygthompson)
-- LinkedIn: [ashley-thompson-dev](www.linkedin.com/in/ashley-thompson-dev)
+- X: [@ashleygthompson](https://www.x.com/@ashleygthompson)
+- LinkedIn: [ashley-thompson-dev](https://www.linkedin.com/in/ashley-thompson-dev)
 - Email: [workashleythompson@gmail.com](mailto:workashleythompson@gmail.com)
 
 ## Skills
